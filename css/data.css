@@ -30,13 +30,13 @@ headeer{
     overflow-y: hidden;
 }
 .cnv{
-    width: 560px;
+    width: 480px;
 }
 .menu{
     width: 60px;
     height: 42px;
     font-size: 14px;
-    margin: 0 5px;
+    /*margin: 0 5px;*/
     text-align: center;
     line-height: 42px;
     color: #4e4e4e;
