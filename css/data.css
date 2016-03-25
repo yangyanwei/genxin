@@ -23,7 +23,7 @@ headeer{
 
 }
 .win{
-   margin: 0 15px;
+   margin: 0 8px;
 }
 .win1{
     overflow-x: scroll;
@@ -87,7 +87,7 @@ headeer{
    width: 100%;
 }
 .Carousel{
-    margin: 0 15px;
+    margin: 0 8px;
     position: relative;
 }
 .banner{
@@ -98,7 +98,7 @@ headeer{
 }
 .Carousel img{
     width: 100%;
-    height: 356px;
+    height: 200px;
     border-radius: 30px;
     position: absolute;
 }
@@ -169,7 +169,7 @@ headeer{
 
 .imgs{
     width: 100%;
-    height: 200px;
+    height: 120px;
 }
 .imgs-r{
     padding-right: 10px;
@@ -204,7 +204,7 @@ headeer{
    margin-bottom: 10px;
 }
 .thumb img{
-    width: 100%;height: 350px;
+    width: 100%;height: 200px;
     background-size: 100% 100%;
     border-radius: 20px;
 }
