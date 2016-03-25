@@ -91,14 +91,14 @@ headeer{
     position: relative;
 }
 .banner{
-    height: 350px;
+    height: 200px;
 
     /*background: #cccccc;*/
     position: relative;
 }
 .Carousel img{
     width: 100%;
-    height: 356px;
+    height: 200px;
     border-radius: 30px;
     position: absolute;
 }
@@ -169,7 +169,7 @@ headeer{
 
 .imgs{
     width: 100%;
-    height: 200px;
+    height: 150px;
 }
 .imgs-r{
     padding-right: 10px;
@@ -178,7 +178,7 @@ headeer{
     padding-left: 10px;
 }
 .imgs img{
-    width: 100%;height:200px;
+    width: 100%;height:150px;
     background-size: 100% 100%;
     border-radius: 20px;
 }
@@ -204,7 +204,7 @@ headeer{
    margin-bottom: 10px;
 }
 .thumb img{
-    width: 100%;height: 350px;
+    width: 100%;height: 200px;
     background-size: 100% 100%;
     border-radius: 20px;
 }
