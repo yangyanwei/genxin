@@ -35,7 +35,8 @@ headeer{
 .menu{
     width: 60px;
     height: 42px;
-    font-size: 14px;
+    font-size: 16px;
+    font-weight:300;
     /*margin: 0 5px;*/
     text-align: center;
     line-height: 42px;
@@ -184,12 +185,12 @@ headeer{
 }
 .lie h3{
     margin-top: 12px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     color:#4E4E4E;
 }
 .lie h4{
-    font-size: 18px;
+    font-size: 16px;
     color: #9c9c9c;
     margin: 5px 0 12px 0;
 }
